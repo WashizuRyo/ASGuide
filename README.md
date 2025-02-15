@@ -1,2 +1,0 @@
-# ASGuide
-asu guide
